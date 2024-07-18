@@ -2,23 +2,23 @@
 Analyzing top 5 categories with the largest popularity.
 
 Insights
-Unique Categories - 16
-Reaction to Animal categories - 1897
-Month with most post - MAY
+1. Unique Categories - 16
+2. Reaction to Animal categories - 1897
+3. Month with most post - MAY
 
 Top 5 Categories by Popularity Scores
-Animal - 74,966
-Science - 71,168
-Healthy Eating - 69,339
-Technology - 68,738
-Food - 66,676
+1. Animal - 74,966
+2. Science - 71,168
+3. Healthy Eating - 69,339
+4. Technology - 68,738
+5. Food - 66,676
 
 Popularity Percentage share from top 5 categories
-Animal - 21.4%
-Science - 20.3%
-Technology - 19.6%
-Healthy Eating - 19.8%
-Food - 19.0%
+1. Animal - 21.4%
+2. Science - 20.3%
+3. Technology - 19.6%
+4. Healthy Eating - 19.8%
+5. Food - 19.0%
 
 ANALYSIS
 Animal and Science are two most popular categories of content, indicating that the audience enjoy (Real-life) and (Scientific) content the most.
