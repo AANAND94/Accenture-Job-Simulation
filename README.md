@@ -20,12 +20,9 @@ Popularity Percentage share from top 5 categories
 4. Healthy Eating - 19.8%
 5. Food - 19.0%
 
-ANALYSIS
-Animal and Science are two most popular categories of content, indicating that the audience enjoy (Real-life) and (Scientific) content the most.
+ANALYSIS- Animal and Science are two most popular categories of content, indicating that the audience enjoy (Real-life) and (Scientific) content the most.
  
-INSIGHT
-Food is a common topic in top 5 categories under which “Healthy Eating” segment is ranking highest which may be an indication to the audience within the user base. Using this insight, a campaign can be organized by working with healthy eating brands to boost user engagement and audience experience.
+INSIGHT- Food is a common topic in top 5 categories under which “Healthy Eating” segment is ranking highest which may be an indication to the audience within the user base. Using this insight, a campaign can be organized by working with healthy eating brands to boost user engagement and audience experience.
 
  
-NEXT STEP
-This ad-hoc analysis is insightful, but now it’s time to take this analysis into large scale production for real-time understanding of your business. We can show you how to do this.
+NEXT STEP- This ad-hoc analysis is insightful, but now it’s time to take this analysis into large scale production for real-time understanding of your business. We can show you how to do this.
